@@ -1,3 +1,5 @@
+<img src="banner.svg" alt="Abdulsamed Eker — Game Developer · Unity / C#" width="100%">
+
 # Hi, I'm Abdulsamed 👋
 
 **Game Developer · Unity / C#** — Digital Game Design student at Istanbul Topkapı University.
