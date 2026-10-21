@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Abdulsamed Eker — Game Developer · Unity / C#">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d0d16"/>
+      <stop offset="1" stop-color="#1a1033"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#b57bff"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.85" cy="0.3" r="0.6">
+      <stop offset="0" stop-color="#8b5cf6" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#8b5cf6" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+  <rect width="1200" height="300" fill="url(#glow)"/>
+
+  <!-- pixel blocks -->
+  <g fill="#8b5cf6">
+    <rect x="860" y="60" width="40" height="40" opacity="0.55"/>
+    <rect x="900" y="100" width="40" height="40" opacity="0.8"/>
+    <rect x="940" y="100" width="40" height="40" opacity="0.4"/>
+    <rect x="980" y="140" width="40" height="40" opacity="0.9"/>
+    <rect x="1020" y="180" width="40" height="40" opacity="0.6"/>
+    <rect x="1060" y="140" width="40" height="40" opacity="0.35"/>
+    <rect x="1100" y="100" width="40" height="40" opacity="0.7"/>
+    <rect x="1100" y="220" width="40" height="40" opacity="0.3"/>
+  </g>
+  <g fill="#b57bff">
+    <rect x="940" y="180" width="40" height="40" opacity="0.5"/>
+    <rect x="1060" y="60" width="40" height="40" opacity="0.45"/>
+  </g>
+
+  <text x="70" y="140" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="68" font-weight="700" fill="#ffffff">Abdulsamed Eker</text>
+  <rect x="72" y="162" width="120" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="70" y="212" font-family="'Courier New', Consolas, monospace" font-size="30" fill="#b57bff">Game Developer · Unity / C#</text>
+  <text x="70" y="252" font-family="'Courier New', Consolas, monospace" font-size="20" fill="#a6a6b8">PC &amp; Mobile · Gameplay Systems</text>
+</svg>
