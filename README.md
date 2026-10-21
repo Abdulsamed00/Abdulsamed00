@@ -1,4 +1,4 @@
-<img src="banner.svg" alt="Abdulsamed Eker — Game Developer · Unity / C#" width="100%">
+<img src="banner-v2.svg" alt="Abdulsamed Eker — Game Developer · Unity / C#" width="100%">
 
 # Hi, I'm Abdulsamed 👋
 
